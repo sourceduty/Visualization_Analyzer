@@ -14,6 +14,12 @@ Moreover, the Visualization Analyzer can generate alternative visualizations to 
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Data Architect](https://github.com/sourceduty/Data_Architect)
+<br>
+[Live Data Developer](https://github.com/sourceduty/Live_Data_Developer)
+<br>
+[Data Generator](https://github.com/sourceduty/Data_Generator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
